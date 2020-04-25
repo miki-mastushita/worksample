@@ -1,6 +1,6 @@
 # Railsとは
 
-## Railsはなぜ生まれたのか
+## Railsの概要
 
 ## Railsでできること
 
